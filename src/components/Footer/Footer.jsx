@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer
       className="footer"
-      style={{ backgroundImage: "url(/img/footer.png)" }}
+      style={{ backgroundImage: "url(/img/Footer.png)" }}
     >
       <div className="redes">
         <a href="https://www.aluracursos.com/">
@@ -18,7 +18,7 @@ const Footer = () => {
         </a>
       </div>
       <img src="/img/Logo_org.png" alt="org" />
-      <strong>Desarrollado por Alura</strong>
+      <strong>Desarrollado por @Jprplana. ©2023</strong>
     </footer>
   );
 };
